@@ -2,3 +2,5 @@
 54b26c09179b3805256386f0b9f1d658 helloworld_arm_lite_0.9.5.tar.gz
 8ee29500cd0d26665d4b28b45440aadd helloworld_arm_full_0.9.6.tar.gz
 96748c359ca77d9627702b092661a5b5 helloworld_arm_lite_0.9.6.tar.gz
+33d64c3283cdf706eca25b25acf8f452 helloworld_arm_full_0.9.7.tar.gz
+fad2aa82ee4d219e4d39f2a0dce60029 helloworld_arm_lite_0.9.7.tar.gz
