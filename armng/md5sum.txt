@@ -4,3 +4,5 @@ f5464477f2c00882f6dfbc1326c23b48 helloworld_armng_lite_0.9.5.tar.gz
 d697dc5e1cb4f86f68da781b968b9948 helloworld_armng_lite_0.9.6.tar.gz
 ac093c4fa45108da4140e21285e56c36 helloworld_armng_full_0.9.7.tar.gz
 b52cf344d514018a33520c184eedd8b8 helloworld_armng_lite_0.9.7.tar.gz
+0f2a5f1dd8fcff5c4c1aa7bd7a530d32 helloworld_armng_full_0.9.8.tar.gz
+48ada92d4ec57c5190a6b0d9e8d3fa95 helloworld_armng_lite_0.9.8.tar.gz
