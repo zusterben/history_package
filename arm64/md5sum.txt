@@ -8,3 +8,5 @@ a13f377f4a492bbb0caac809b9894d94 helloworld_arm64_lite_0.9.7.tar.gz
 d5f8cce55f7a8459f81edfa94c4ca1fa helloworld_arm64_lite_0.9.8.tar.gz
 6c92e27642669febae2bcbca9edf178a helloworld_arm64_full_0.9.9.tar.gz
 03f1a77cecac6ea77bba85f868404802 helloworld_arm64_lite_0.9.9.tar.gz
+0a14d833a9e7bbe523241fe58f143b92 helloworld_arm64_full_1.0.0.tar.gz
+4a2be6014e51f2932655be96ea87f156 helloworld_arm64_lite_1.0.0.tar.gz
