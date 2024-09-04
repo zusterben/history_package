@@ -4,3 +4,4 @@ baae634593adf0660e43d1c78cfcc5c5 helloworld_mips_lite_0.9.7.tar.gz
 d4dca8e8f08c2b3e3a94a8480e7568e5 helloworld_mips_lite_0.9.8.tar.gz
 b265bd2be1dbbe87a642bc3ac25d70b5 helloworld_mips_lite_0.9.9.tar.gz
 f5a88eb4dc484bc828441bfeea3e3223 helloworld_mips_lite_1.0.0.tar.gz
+ea53017a026336d65af8edfd3c1fa396 helloworld_mips_lite_1.0.1.tar.gz
