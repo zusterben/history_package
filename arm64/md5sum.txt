@@ -16,3 +16,9 @@ cc9bb6ff80da8be9d387e4bd280df792 helloworld_arm64_full_1.0.2.tar.gz
 b392ee901a6154ec90dfc91ae2fad775 helloworld_arm64_lite_1.0.2.tar.gz
 2790aa72294936c4789448b581aaef6a helloworld_arm64_full_1.0.3.tar.gz
 6da068c4ca680e34e28efea235d5eaf4 helloworld_arm64_lite_1.0.3.tar.gz
+f00d5daf19bbbe3140b5232761b8da8e helloworld_arm64_full_1.0.4.tar.gz
+434498d7bc5ffe1abb78bf3969b13fca helloworld_arm64_lite_1.0.4.tar.gz
+3bcee7cacf21bb49a56eb27f1656ed6e helloworld_arm64_full_1.0.5.tar.gz
+7786e0562789b911cbb191f365685840 helloworld_arm64_lite_1.0.5.tar.gz
+1efaf710eb7dda055c35bb35dab09e78 helloworld_arm64_full_1.0.6.tar.gz
+cba75e8549acb6519742897bf31b4f48 helloworld_arm64_lite_1.0.6.tar.gz

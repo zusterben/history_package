@@ -16,3 +16,9 @@ d661248bbd18634e2f68eeb03cf79d0c helloworld_arm_full_1.0.1.tar.gz
 c847792fadf80900116f77d92aa421ae helloworld_arm_lite_1.0.2.tar.gz
 674fafab40a95e960b58582abf5edc12 helloworld_arm_full_1.0.3.tar.gz
 cf52838ef6f68389f659f4d0328a2af0 helloworld_arm_lite_1.0.3.tar.gz
+35cea92f29eb3e5036fe45112b24e747 helloworld_arm_full_1.0.4.tar.gz
+219872ffff76cf3ee8ca0a7099f618a2 helloworld_arm_lite_1.0.4.tar.gz
+626143595fa65074bd7bd50b08139c30 helloworld_arm_full_1.0.5.tar.gz
+9c6cf2e5f533ea62767fc2f48b37f6e3 helloworld_arm_lite_1.0.5.tar.gz
+be357ca9ad2a4c1ef5ebaac7654b9fd6 helloworld_arm_full_1.0.6.tar.gz
+5e400c7fce444ef80e34d1ca6c4eeff5 helloworld_arm_lite_1.0.6.tar.gz
