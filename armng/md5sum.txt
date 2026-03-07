@@ -22,3 +22,5 @@ d7cf0205e1495ba7d534563ca124be9d helloworld_armng_lite_1.0.4.tar.gz
 712c506b5267ae970d0b6dc50884f748 helloworld_armng_lite_1.0.5.tar.gz
 5413467514aa74feee8003c3f69c3e35 helloworld_armng_full_1.0.6.tar.gz
 e344eeeffbb253124108727ae699ad6f helloworld_armng_lite_1.0.6.tar.gz
+c60ab8986cb7d7df26b33fdb224df3dc helloworld_armng_full_1.0.7.tar.gz
+8e7ed5942adf3b30ba3684c738869f58 helloworld_armng_lite_1.0.7.tar.gz
