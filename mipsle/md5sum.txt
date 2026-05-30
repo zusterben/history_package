@@ -12,3 +12,4 @@ d2812d19af79400a57b41b5b7abaee8b helloworld_mipsle_lite_1.0.2.tar.gz
 1887ab64f784e5f11401ada044502cbc helloworld_mipsle_lite_1.0.6.tar.gz
 3822ea58e9fc6c1d79fb82ef55ecca5d helloworld_mipsle_lite_1.0.7.tar.gz
 24ba5f63bf640c19a92bfb769d4b79db helloworld_mipsle_lite_1.0.8.tar.gz
+405c4cb69bbd49939a996f82c7c49e69 helloworld_mipsle_lite_1.0.9.tar.gz
